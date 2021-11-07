@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dronepilot
+- 👋 Hi, I’m bori.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Web Programming.
 - 💞️ I’m looking to collaborate on everything.
